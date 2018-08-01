@@ -25,10 +25,10 @@ public class KafkaTwitterProducer2 {
 		
 		
 		
-		String consumerKey = "zeJLsPa6pEfhlRFHTh0GLDQtM";
-		String consumerSecret = "Zm8slYWaSq5GxXdj9LCaWhmKjW6xMbLOEUvu2kFaWiL5cLU7kc";
-		String accessToken = "2921809740-jUnnAWn76r5VQxGh6dgk8BvpbuKhMNkksXzanrP";
-		String accessTokenSecret = "riYdL1exqNuht8YwqhQ5j9s9eqrJCznSdbpOrlylYgXTH";
+		String consumerKey = "xxxxxxxxxxxxxxxxxxxxxxxxx";
+		String consumerSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+		String accessToken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+		String accessTokenSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 		String topicName = "MITweets";
 		String[] keyWords = {"FalloutMachineImpossible","MachineImpossible","TomCruise"};
 		
